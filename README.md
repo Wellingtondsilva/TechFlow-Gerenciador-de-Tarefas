@@ -11,3 +11,15 @@ Foi utilizado o framework Kanban para gestão visual do progresso das atividades
 
 ## Gestão de Mudanças
 **Justificativa:** A startup de logística identificou a necessidade crítica de priorizar entregas emergenciais. O escopo original do CRUD foi adaptado para incluir um parâmetro obrigatório de classificação de prioridade ("Alta", "Média", "Baixa") em cada card de tarefa cadastrado.
+
+## ⚙️ Instruções de Instalação e Execução
+
+Siga os passos abaixo para clonar o repositório, instalar as dependências necessárias e executar os testes automatizados localmente.
+
+### Pré-requisitos
+* Python 3.10 ou superior instalado no sistema.
+
+### Passo 1: Clonar o Repositório
+Abra o seu terminal e execute o comando para baixar o projeto:
+```bash
+git clone https://github.com/Wellingtondsilva/TechFlow-Gerenciador-de-Tarefas.git
