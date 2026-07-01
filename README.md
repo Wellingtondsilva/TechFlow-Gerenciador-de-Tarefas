@@ -23,3 +23,13 @@ Siga os passos abaixo para clonar o repositório, instalar as dependências nece
 Abra o seu terminal e execute o comando para baixar o projeto:
 ```bash
 git clone https://github.com/Wellingtondsilva/TechFlow-Gerenciador-de-Tarefas.git
+
+
+## 🕹️ Guia de Uso do Sistema (Interação via Terminal)
+
+O **TechFlow** possui uma interface interativa baseada em menu numérico direto no terminal. Ao iniciar o sistema, você verá a tela principal com as opções de gerenciamento.
+
+### Como Iniciar o Sistema
+Na raiz do projeto, abra o seu terminal e execute o comando:
+```bash
+python main.py
