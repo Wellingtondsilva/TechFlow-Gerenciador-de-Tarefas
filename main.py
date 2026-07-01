@@ -1,6 +1,8 @@
 import sys
 from src.gerenciador import GerenciadorTarefas
 
+# Menu interativo
+
 def exibir_menu():
     print("\n" + "="*30)
     print("      TECHFLOW LOGÍSTICA      ")
