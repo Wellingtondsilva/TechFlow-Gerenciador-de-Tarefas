@@ -8,3 +8,6 @@ Este sistema foi desenvolvido para atender uma startup de logística, permitindo
 
 ## Metodologia Adotada
 Foi utilizado o framework Kanban para gestão visual do progresso das atividades.
+
+## Gestão de Mudanças
+**Justificativa:** A startup de logística identificou a necessidade crítica de priorizar entregas emergenciais. O escopo original do CRUD foi adaptado para incluir um parâmetro obrigatório de classificação de prioridade ("Alta", "Média", "Baixa") em cada card de tarefa cadastrado.
